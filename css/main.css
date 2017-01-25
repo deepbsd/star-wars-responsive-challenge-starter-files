@@ -1,0 +1,44 @@
+html {
+  margin: 0px;
+}
+main {
+  padding-top: 100px;
+}
+main.main-container {
+  margin-top: 20px;
+  padding-top: 0px;
+}
+header {
+  border: 0px solid orange;
+  background-color: orange;
+  height: 110px;
+  margin: 5px;
+}
+h1 {
+  padding: 10px;
+  margin-top: 0px;
+  margin-left: 30px;
+  margin-bottom: 0px;
+  font-size: 30px;
+}
+.box {
+  height: 250px;
+  text-align: center;
+  padding-top: 30px;
+  margin: 20px;
+}
+p.header-p {
+  padding: 10px;
+  margin: 5px;
+  margin-left: 30px;
+  font-size: 20px;
+}
+main .row {
+  margin-bottom: 20px;
+}
+h2.name {
+  margin-left: 15px;
+}
+p.description {
+  margin-left: 15px;
+}
